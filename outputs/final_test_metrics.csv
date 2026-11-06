@@ -1,0 +1,7 @@
+task,architecture,test_images,accuracy_percent,macro_f1_percent,macro_precision_percent,macro_recall_percent,checkpoint_size_MB
+kaggle_species,mobilenet_v3_large,642,99.065,98.993,99.088,98.926,16.293
+kaggle_species,resnet18,642,99.377,99.296,99.503,99.115,42.736
+plantvillage_disease,mobilenet_v3_large,8146,99.619,99.405,99.451,99.365,16.426
+plantvillage_disease,resnet18,8146,99.767,99.678,99.629,99.731,42.789
+campus_species,mobilenet_v3_large,3634,99.725,99.728,99.722,99.735,16.283
+campus_species,resnet18,3634,99.752,99.762,99.762,99.762,42.732

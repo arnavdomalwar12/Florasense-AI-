@@ -1,0 +1,7 @@
+task,architecture,split,images,accuracy_percent,macro_f1_percent,macro_precision_percent,macro_recall_percent,checkpoint
+kaggle_species,mobilenet_v3_large,val,641,99.22,99.171,99.014,99.352,c:\Users\arnav\OneDrive\Desktop\DL Project\models\kaggle_species_mobilenet_v3_large_best.pth
+kaggle_species,mobilenet_v3_large,test,642,99.065,98.993,99.088,98.926,c:\Users\arnav\OneDrive\Desktop\DL Project\models\kaggle_species_mobilenet_v3_large_best.pth
+plantvillage_disease,mobilenet_v3_large,val,8146,99.718,99.611,99.591,99.64,c:\Users\arnav\OneDrive\Desktop\DL Project\models\plantvillage_disease_mobilenet_v3_large_best.pth
+plantvillage_disease,mobilenet_v3_large,test,8146,99.619,99.405,99.451,99.365,c:\Users\arnav\OneDrive\Desktop\DL Project\models\plantvillage_disease_mobilenet_v3_large_best.pth
+campus_species,mobilenet_v3_large,val,2173,99.678,99.667,99.668,99.67,c:\Users\arnav\OneDrive\Desktop\DL Project\models\campus_species_mobilenet_v3_large_best.pth
+campus_species,mobilenet_v3_large,test,3634,99.725,99.728,99.722,99.735,c:\Users\arnav\OneDrive\Desktop\DL Project\models\campus_species_mobilenet_v3_large_best.pth

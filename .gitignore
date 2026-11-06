@@ -1,0 +1,21 @@
+.venv/
+.venv-1/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local model/deployment copies generated inside virtual environments
+**/deployment/
+
+# Large raw training datasets are documented locally but not suitable for a
+# fast GitHub source upload. Models, manifests, reports, and sample images
+# remain tracked.
+PlantVillage-Dataset-master/
+Campus_plants/
+archive/

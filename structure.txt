@@ -1,0 +1,8 @@
+FloraSense_AI/
+├── dataset/
+│   └── plant_leaf_dataset/
+├── notebooks/
+│   └── plant_species_classification.ipynb
+├── models/
+├── outputs/
+└── requirements.txt

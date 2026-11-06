@@ -1,0 +1,18 @@
+                    precision    recall  f1-score   support
+
+Alstonia Scholaris       0.98      1.00      0.99        62
+             Arjun       1.00      1.00      1.00        65
+              Bael       1.00      0.94      0.97        16
+             Basil       1.00      1.00      1.00        20
+            Chinar       1.00      1.00      1.00        30
+             Gauva       0.97      1.00      0.98        60
+             Jamun       1.00      1.00      1.00        91
+          Jatropha       1.00      1.00      1.00        36
+             Lemon       1.00      1.00      1.00        32
+             Mango       1.00      0.97      0.98        62
+       Pomegranate       1.00      1.00      1.00        81
+  Pongamia Pinnata       0.99      0.99      0.99        87
+
+          accuracy                           0.99       642
+         macro avg       1.00      0.99      0.99       642
+      weighted avg       0.99      0.99      0.99       642

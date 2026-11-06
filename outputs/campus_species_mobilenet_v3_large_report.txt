@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+        Aloe       1.00      1.00      1.00       410
+        Corn       0.99      1.00      1.00       291
+       Guava       1.00      1.00      1.00       406
+    Hibiscus       1.00      1.00      1.00       396
+       Lemon       1.00      0.99      0.99       315
+       Mango       1.00      1.00      1.00       385
+        Neem       0.99      0.99      0.99       377
+        Rice       1.00      1.00      1.00       262
+      Tomato       1.00      1.00      1.00       430
+       Tulsi       0.98      0.99      0.98       362
+
+    accuracy                           1.00      3634
+   macro avg       1.00      1.00      1.00      3634
+weighted avg       1.00      1.00      1.00      3634

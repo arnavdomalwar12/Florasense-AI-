@@ -1,0 +1,390 @@
+{
+  "Alstonia Scholaris": {
+    "plant_profile": {
+      "common_name": "Saptaparni / Devil tree",
+      "scientific_name": "Alstonia scholaris",
+      "description": "Evergreen tropical tree commonly grown as an avenue and shade tree."
+    },
+    "care_profile": {
+      "soil": "Well-drained loam; tolerates a range of soils",
+      "sunlight": "Full sun to partial shade",
+      "watering": "Water deeply after planting; allow the surface to dry between established-waterings",
+      "temperature": "Warm tropical to subtropical conditions",
+      "management_notes": [
+        "Provide space for the mature canopy.",
+        "Avoid prolonged waterlogging."
+      ]
+    },
+    "disease_profile": {
+      "common_problems": [
+        "Leaf spot",
+        "Sooty mould associated with sap-sucking insects",
+        "Root rot in persistently wet soil"
+      ],
+      "management_notes": [
+        "Remove badly affected fallen leaves.",
+        "Improve airflow and drainage.",
+        "Inspect for scale or aphids; use only locally registered products according to the label."
+      ]
+    },
+    "source_name": "Kew Plants of the World Online",
+    "source_url": "https://powo.science.kew.org/",
+    "reviewed_date": "2026-10-21"
+  },
+  "Arjun": {
+    "plant_profile": {
+      "common_name": "Arjun",
+      "scientific_name": "Terminalia arjuna",
+      "description": "Large Indian deciduous tree, often found along riverbanks and planted for shade."
+    },
+    "care_profile": {
+      "soil": "Deep, well-drained loam; tolerates alluvial soils",
+      "sunlight": "Full sun",
+      "watering": "Regular water while young; reduce frequency after establishment",
+      "temperature": "Warm tropical to subtropical conditions",
+      "management_notes": [
+        "Plant away from buildings because the tree becomes large.",
+        "Maintain drainage while young."
+      ]
+    },
+    "disease_profile": {
+      "common_problems": [
+        "Leaf spot",
+        "Powdery mildew in humid conditions",
+        "Termite or bark injury"
+      ],
+      "management_notes": [
+        "Prune only damaged or diseased material with clean tools.",
+        "Keep the trunk base free from standing water and debris.",
+        "Follow local forestry or horticulture guidance for pest treatment."
+      ]
+    },
+    "source_name": "Kew Plants of the World Online",
+    "source_url": "https://powo.science.kew.org/",
+    "reviewed_date": "2026-10-21"
+  },
+  "Bael": {
+    "plant_profile": {
+      "common_name": "Bael",
+      "scientific_name": "Aegle marmelos",
+      "description": "Fragrant, thorny fruit tree native to the Indian subcontinent."
+    },
+    "care_profile": {
+      "soil": "Well-drained loam or sandy loam; tolerates dry soils",
+      "sunlight": "Full sun",
+      "watering": "Moderate during establishment; drought tolerant once established",
+      "temperature": "Warm tropical to subtropical conditions",
+      "management_notes": [
+        "Avoid overwatering and heavy waterlogged soil.",
+        "Remove suckers and dead branches when needed."
+      ]
+    },
+    "disease_profile": {
+      "common_problems": [
+        "Fruit and leaf spots",
+        "Anthracnose",
+        "Scale insects and aphids"
+      ],
+      "management_notes": [
+        "Collect and dispose of fallen infected fruit and leaves.",
+        "Keep foliage dry where practical and improve airflow.",
+        "Use an approved treatment only after confirming the pest or disease."
+      ]
+    },
+    "source_name": "Kew Plants of the World Online",
+    "source_url": "https://powo.science.kew.org/",
+    "reviewed_date": "2026-10-21"
+  },
+  "Basil": {
+    "plant_profile": {
+      "common_name": "Holy basil / Tulsi",
+      "scientific_name": "Ocimum tenuiflorum",
+      "description": "Aromatic herb widely cultivated in warm climates."
+    },
+    "care_profile": {
+      "soil": "Fertile, well-drained soil",
+      "sunlight": "At least 6 hours of sunlight",
+      "watering": "Water when the top layer begins to dry; do not leave roots saturated",
+      "temperature": "Warm conditions; protect from frost",
+      "management_notes": [
+        "Pinch flower tips to encourage branching.",
+        "Harvest with clean scissors and avoid removing more than one-third at a time."
+      ]
+    },
+    "disease_profile": {
+      "common_problems": [
+        "Downy mildew",
+        "Fusarium wilt",
+        "Aphids and whiteflies"
+      ],
+      "management_notes": [
+        "Use clean seed or cuttings and avoid overhead watering.",
+        "Remove severely affected plants to limit spread.",
+        "Provide spacing and airflow; follow the product label for any treatment."
+      ]
+    },
+    "source_name": "University of Minnesota Extension - Growing herbs",
+    "source_url": "https://extension.umn.edu/vegetables/growing-herbs",
+    "reviewed_date": "2026-10-21"
+  },
+  "Chinar": {
+    "plant_profile": {
+      "common_name": "Chinar / Oriental plane",
+      "scientific_name": "Platanus orientalis",
+      "description": "Large deciduous shade tree associated with temperate regions and Kashmir."
+    },
+    "care_profile": {
+      "soil": "Deep, fertile, well-drained soil",
+      "sunlight": "Full sun",
+      "watering": "Regular deep watering during establishment and dry periods",
+      "temperature": "Temperate conditions; needs seasonal winter dormancy",
+      "management_notes": [
+        "Allow substantial room for roots and canopy.",
+        "Prune during the dormant season when necessary."
+      ]
+    },
+    "disease_profile": {
+      "common_problems": [
+        "Anthracnose",
+        "Powdery mildew",
+        "Canker and bark wounds"
+      ],
+      "management_notes": [
+        "Remove diseased twigs during dry weather and disinfect tools.",
+        "Avoid unnecessary wounds and compacted soil.",
+        "Consult an arborist for trunk cankers or major limb symptoms."
+      ]
+    },
+    "source_name": "Kew Plants of the World Online",
+    "source_url": "https://powo.science.kew.org/",
+    "reviewed_date": "2026-10-21"
+  },
+  "Gauva": {
+    "plant_profile": {
+      "common_name": "Guava",
+      "scientific_name": "Psidium guajava",
+      "description": "Small tropical fruit tree with edible fruit and aromatic foliage."
+    },
+    "care_profile": {
+      "soil": "Well-drained loam; tolerates moderately poor soil",
+      "sunlight": "Full sun",
+      "watering": "Regular water during flowering and fruit development; avoid waterlogging",
+      "temperature": "Warm tropical to subtropical conditions",
+      "management_notes": [
+        "Thin crowded branches to improve light and airflow.",
+        "Mulch around, but not against, the trunk."
+      ]
+    },
+    "disease_profile": {
+      "common_problems": [
+        "Anthracnose",
+        "Fruit rot",
+        "Wilt and root-rot diseases",
+        "Fruit fly damage"
+      ],
+      "management_notes": [
+        "Remove fallen and diseased fruit promptly.",
+        "Use clean pruning tools and maintain drainage.",
+        "Use fruit-protection and pest-control measures recommended locally."
+      ]
+    },
+    "source_name": "Kew Plants of the World Online",
+    "source_url": "https://powo.science.kew.org/",
+    "reviewed_date": "2026-10-21"
+  },
+  "Jamun": {
+    "plant_profile": {
+      "common_name": "Jamun / Java plum",
+      "scientific_name": "Syzygium cumini",
+      "description": "Evergreen tropical fruit tree with dark purple fruit when ripe."
+    },
+    "care_profile": {
+      "soil": "Deep, well-drained soil; tolerates seasonal wetness once established",
+      "sunlight": "Full sun to partial shade",
+      "watering": "Regular during establishment; moderate thereafter",
+      "temperature": "Warm tropical to subtropical conditions",
+      "management_notes": [
+        "Provide room for a large mature tree.",
+        "Remove weak or crossing branches after fruiting."
+      ]
+    },
+    "disease_profile": {
+      "common_problems": [
+        "Leaf spot",
+        "Anthracnose and fruit rot",
+        "Scale insects and borers"
+      ],
+      "management_notes": [
+        "Improve canopy airflow and remove affected fruit.",
+        "Avoid trunk injuries and waterlogging.",
+        "Confirm the pest before using a locally registered treatment."
+      ]
+    },
+    "source_name": "Kew Plants of the World Online",
+    "source_url": "https://powo.science.kew.org/",
+    "reviewed_date": "2026-10-21"
+  },
+  "Jatropha": {
+    "plant_profile": {
+      "common_name": "Jatropha",
+      "scientific_name": "Jatropha curcas",
+      "description": "Drought-tolerant shrub or small tree; seeds are toxic if eaten."
+    },
+    "care_profile": {
+      "soil": "Well-drained sandy or loamy soil",
+      "sunlight": "Full sun",
+      "watering": "Water moderately while young; allow soil to dry between watering",
+      "temperature": "Warm frost-free conditions",
+      "management_notes": [
+        "Wear gloves when handling sap or seeds.",
+        "Keep seeds and plant parts away from children and animals."
+      ]
+    },
+    "disease_profile": {
+      "common_problems": [
+        "Leaf spot",
+        "Root rot from excess moisture",
+        "Whiteflies, mites and mealybugs"
+      ],
+      "management_notes": [
+        "Improve drainage and remove badly infected leaves.",
+        "Inspect leaf undersides regularly.",
+        "Do not use edible-crop treatments or consume any plant part without expert advice."
+      ]
+    },
+    "source_name": "Kew Plants of the World Online",
+    "source_url": "https://powo.science.kew.org/",
+    "reviewed_date": "2026-10-21"
+  },
+  "Lemon": {
+    "plant_profile": {
+      "common_name": "Lemon",
+      "scientific_name": "Citrus limon",
+      "description": "Evergreen citrus tree cultivated for its aromatic fruit."
+    },
+    "care_profile": {
+      "soil": "Well-drained, slightly acidic loam",
+      "sunlight": "Full sun",
+      "watering": "Deeply water when the surface dries; increase during fruiting but avoid saturation",
+      "temperature": "Warm subtropical conditions; protect from frost",
+      "management_notes": [
+        "Mulch without touching the trunk.",
+        "Provide balanced nutrition based on a soil test."
+      ]
+    },
+    "disease_profile": {
+      "common_problems": [
+        "Citrus canker",
+        "Citrus greening (HLB)",
+        "Phytophthora root rot",
+        "Leaf miner and scale insects"
+      ],
+      "management_notes": [
+        "Use certified disease-free planting material where available.",
+        "Remove severely affected tissue as advised by local plant-health authorities.",
+        "Control vectors only under local agricultural guidance; do not diagnose from an image alone."
+      ]
+    },
+    "source_name": "USDA APHIS Citrus Health",
+    "source_url": "https://www.aphis.usda.gov/plant-pests-diseases/citrus-diseases",
+    "reviewed_date": "2026-10-21"
+  },
+  "Mango": {
+    "plant_profile": {
+      "common_name": "Mango",
+      "scientific_name": "Mangifera indica",
+      "description": "Large evergreen tropical fruit tree with leathery lance-shaped leaves."
+    },
+    "care_profile": {
+      "soil": "Deep, well-drained loam",
+      "sunlight": "Full sun",
+      "watering": "Regular while young; deep but less frequent watering after establishment",
+      "temperature": "Warm tropical to subtropical conditions; protect young trees from frost",
+      "management_notes": [
+        "Prune lightly after harvest to maintain airflow.",
+        "Avoid waterlogging and excessive nitrogen during flowering."
+      ]
+    },
+    "disease_profile": {
+      "common_problems": [
+        "Powdery mildew",
+        "Anthracnose",
+        "Bacterial black spot",
+        "Mango hopper and scale insects"
+      ],
+      "management_notes": [
+        "Remove fallen diseased material and improve canopy airflow.",
+        "Avoid overhead irrigation during flowering.",
+        "Use only locally registered products according to the label and harvest interval."
+      ]
+    },
+    "source_name": "Kew Plants of the World Online",
+    "source_url": "https://powo.science.kew.org/",
+    "reviewed_date": "2026-10-21"
+  },
+  "Pomegranate": {
+    "plant_profile": {
+      "common_name": "Pomegranate",
+      "scientific_name": "Punica granatum",
+      "description": "Long-lived deciduous shrub or small tree grown for its fruit."
+    },
+    "care_profile": {
+      "soil": "Well-drained loam or sandy loam",
+      "sunlight": "Full sun",
+      "watering": "Regular during establishment and fruit set; avoid erratic drought-to-flood cycles",
+      "temperature": "Warm temperate to subtropical conditions",
+      "management_notes": [
+        "Remove suckers and weak basal growth.",
+        "Thin dense branches to improve light and airflow."
+      ]
+    },
+    "disease_profile": {
+      "common_problems": [
+        "Alternaria fruit or leaf spot",
+        "Bacterial blight",
+        "Fruit cracking and rot",
+        "Aphids and fruit borers"
+      ],
+      "management_notes": [
+        "Remove affected fruit and prune for airflow.",
+        "Keep irrigation consistent during fruit development.",
+        "Confirm the cause before treatment and follow local guidance."
+      ]
+    },
+    "source_name": "Kew Plants of the World Online",
+    "source_url": "https://powo.science.kew.org/",
+    "reviewed_date": "2026-10-21"
+  },
+  "Pongamia Pinnata": {
+    "plant_profile": {
+      "common_name": "Karanj",
+      "scientific_name": "Pongamia pinnata",
+      "description": "Nitrogen-fixing evergreen tree used for shade, restoration and oilseed production."
+    },
+    "care_profile": {
+      "soil": "Well-drained soil; tolerates saline or coastal conditions",
+      "sunlight": "Full sun to partial shade",
+      "watering": "Water regularly during establishment; drought tolerant later",
+      "temperature": "Warm tropical to subtropical conditions",
+      "management_notes": [
+        "Provide room for a broad canopy and strong roots.",
+        "Do not consume seeds or use them as food without specialist processing advice."
+      ]
+    },
+    "disease_profile": {
+      "common_problems": [
+        "Leaf spot",
+        "Stem or root rot in poorly drained soil",
+        "Defoliating caterpillars and sap-sucking insects"
+      ],
+      "management_notes": [
+        "Remove heavily infected debris and improve drainage.",
+        "Monitor new growth for insects.",
+        "Follow local forestry or horticulture recommendations for treatment."
+      ]
+    },
+    "source_name": "Kew Plants of the World Online",
+    "source_url": "https://powo.science.kew.org/",
+    "reviewed_date": "2026-10-21"
+  }
+}
